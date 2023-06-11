@@ -1,0 +1,45 @@
+/*CSS*/
+
+body {
+  margin: 0% !important;
+  -webkit-tap-highlight-color: transparent !important;
+  -webkit-touch-callout: none !important;
+  user-select: none !important;
+  -moz-user-select: none !important;
+  -webkit-user-select: none !important;
+  overscroll-behavior-y: none !important;
+}
+
+.navbar a {
+  color: #588157 !important;
+}
+
+.navbar {
+  background-color: #fff !important;
+}
+
+.Banner {
+  background-color: #588157 !important;
+}
+
+.Banner img {
+  width: 100px;
+  height: 100px;
+  border-radius: 20px;
+}
+
+.Screenshots img {
+  width: 183.66px;
+  height: 355.44px;
+}
+
+.btn-primary,
+.btn-primary:active,
+.btn-primary:hover {
+  background-color: #588157 !important;
+  border: #588157 !important;
+}
+
+li {
+  list-style: none !important;
+}
